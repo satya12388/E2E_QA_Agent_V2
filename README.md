@@ -88,6 +88,8 @@ E2E_QA_Agent/
 └── .python-version          # Python 3.12
 ```
 
+### Note: use `CLAUDE.md` and `.claude` folder if developing using claude code, if not these could be ignored.
+
 ---
 
 ## Running the App
