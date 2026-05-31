@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-community
+langchain-groq
+langchain-sarvam-integration
+langchain-ollama
+langchain-google-genai
+langchain-mcp-adapters
+pypdf
+python-docx
+dotenv
+pandas
+streamlit
+browser-use
+
+

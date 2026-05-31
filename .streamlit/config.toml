@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#A855F7"             # Electric Violet — vibrant modern accent
+backgroundColor = "#09090B"          # Zinc-950 — near-black depth
+secondaryBackgroundColor = "#18181B" # Zinc-900 — subtle surface lift
+textColor = "#FAFAFA"                # Pure near-white — clean contrast
+font = "sans serif"                  # Modern sans-serif for a polished SaaS feel
