@@ -1,6 +1,23 @@
+# =============================================================
+#  End2End Quality Assurance · GEN AI
+#  Streamlit theme config — drop this file at:  .streamlit/config.toml
+#  (matches the "Mono" technical-slate direction from the HTML prototype)
+# =============================================================
+
 [theme]
-primaryColor = "#A855F7"             # Electric Violet — vibrant modern accent
-backgroundColor = "#09090B"          # Zinc-950 — near-black depth
-secondaryBackgroundColor = "#18181B" # Zinc-900 — subtle surface lift
-textColor = "#FAFAFA"                # Pure near-white — clean contrast
-font = "sans serif"                  # Modern sans-serif for a polished SaaS feel
+base = "light"
+
+# Technical slate accent (near-monochrome)
+primaryColor = "#3D3F47"
+
+# Cool near-white canvas + soft secondary surface
+backgroundColor = "#F8F8F9"
+secondaryBackgroundColor = "#F1F1F3"
+textColor = "#2A2B2F"
+
+# Manrope is loaded via the CSS injection in app.py; this is the fallback.
+font = "sans serif"
+
+[server]
+# Larger design docs are common — lift the upload cap to 25 MB
+maxUploadSize = 25
